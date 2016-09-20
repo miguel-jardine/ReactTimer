@@ -1,0 +1,17 @@
+.top-bar {
+    background-color: $nav-background-color;
+
+    .menu > .menu-text {
+        color: white;
+    }
+
+    .menu> .menu-text > a {
+        display: inline;
+        padding: 0;
+    }
+}
+
+.top-bar ul {
+    background-color: $nav-background-color;
+}
+
